@@ -1,0 +1,108 @@
+{
+  "settings": {
+    "payday": 25,
+    "restrictToPayday": false,
+    "fixedCosts": [
+      {
+        "id": "mr0t2frgjufc3",
+        "name": "家賃",
+        "amount": 60000
+      },
+      {
+        "id": "mr0t36o9zfzlx",
+        "name": "スマホ",
+        "amount": 4800
+      },
+      {
+        "id": "mr0t3h7gtj0we",
+        "name": "ネット固定",
+        "amount": 6000
+      },
+      {
+        "id": "mr0tdxbs9p9qk",
+        "name": "生命保険",
+        "amount": 10000
+      },
+      {
+        "id": "mr0tf4oow0cwi",
+        "name": "火災保険",
+        "amount": 2000
+      },
+      {
+        "id": "mr26ioligvahh",
+        "name": "ネットフリックス",
+        "amount": 1600
+      }
+    ],
+    "monthlySavings": 0,
+    "semiVar": [
+      {
+        "id": "mr0t548r5j1wt",
+        "name": "平日朝（コンビニ20日分） 300円×20日 6000円",
+        "history": [
+          6000
+        ]
+      },
+      {
+        "id": "mr0t64z15b1r5",
+        "name": "平日昼（コンビニ20日分）700円×20日 14000円",
+        "history": [
+          14000
+        ]
+      },
+      {
+        "id": "mr0t6ft3v6ysc",
+        "name": "平日夜（ファストフード20日）1000円×20日 20000円",
+        "history": [
+          20000
+        ]
+      },
+      {
+        "id": "mr0t6pfr2vfw2",
+        "name": "休日（9日分）2000円×9日 19000円",
+        "history": [
+          19000
+        ]
+      },
+      {
+        "id": "mr0t6y3f4qg91",
+        "name": "休日の外食（4回）1500円×4日 12000円",
+        "history": [
+          12000
+        ]
+      },
+      {
+        "id": "mr0t7q13zonc9",
+        "name": "おやつ、ジュース、エナドリ 400円×15日 6000円",
+        "history": [
+          6000
+        ]
+      },
+      {
+        "id": "mr0t8s115u8td",
+        "name": "電気代　一人暮らしで平均9000円位",
+        "history": [
+          9000
+        ]
+      },
+      {
+        "id": "mr0tan62e3xrv",
+        "name": "上下水道代　一人暮らしで2300円位　（請求は２か月でくる）",
+        "history": [
+          2300
+        ]
+      },
+      {
+        "id": "mr0td11g3gin5",
+        "name": "消耗品（洗剤、ゴミ袋、トレペ全込み）　一人暮らしで平均11000円ぐらい",
+        "history": [
+          11000
+        ]
+      }
+    ]
+  },
+  "currentCycle": null,
+  "cycleHistory": [],
+  "cumulativeSavings": 0,
+  "savingsLog": []
+}
